@@ -5,10 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/MultiplayerMode.unity
     guid: e2c7c6e5ff8024c47afb1a0da58b3aa4
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Lobby.unity
     guid: f034159ad52aeaa4f9c13659e602a83e
   - enabled: 1
@@ -17,7 +17,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SinglePlayer.unity
     guid: df8c6c5df24e4c740a13351a1f3e3c24
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/MultiPlayer.unity
     guid: 6a0b121ae59a0134393dd88462864078
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
